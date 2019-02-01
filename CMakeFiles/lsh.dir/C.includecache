@@ -7,4 +7,14 @@
 #IncludeRegexTransform: 
 
 /home/ayham-mamoun/Desktop/git/lsh/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/unistd.h
+-
+sys/wait.h
+-
 
