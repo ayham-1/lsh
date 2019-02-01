@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -g   CMakeFiles/lsh.dir/src/main.c.o  -o bin/lsh 
